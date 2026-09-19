@@ -346,33 +346,3 @@ YOUR_GITHUB_REPOSITORY_URL
 **Smart India Hackathon 2026**
 
 > Building technology for safer, smarter and more responsive cities.
-
-## 📸 CivicEye — Project Screenshots
-
-### 🖥️ 1. Dashboard
-
-![CivicEye Dashboard](screenshots/dashboard.png)
-
-### 🚧 2. Pothole Detection, Snapshot & Dispatch
-
-![Pothole Detection, Snapshot and Dispatch](screenshots/pothole-detect-snapshot-dispatch.png)
-
-### 📍 3. GIS Location
-
-![GIS Location](screenshots/gis-location.png)
-
-### ⚡ 4. Triggered Incidents
-
-![Triggered Incidents](screenshots/triggered-incidents.png)
-
-### 📩 5. Messages Passed
-
-![Messages Passed](screenshots/messages-passed.png)
-
-### 📝 6. Municipal Complaint Letter
-
-![Pothole Municipal Complaint Letter](screenshots/pothole-mess-letter.png)
-
-### 🔊 7. Voice Alert
-
-![Voice Alert](screenshots/voice-alert.png)
