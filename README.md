@@ -147,7 +147,7 @@ CivicEye/
 ## ⚙️ Run Locally
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Tejaswi-bot-ai/CivicEye.git
 cd CivicEye
 npm install
 npm run dev
@@ -160,7 +160,7 @@ Open the local address shown by the development server.
 ## 🔗 Repository
 
 **GitHub:**
-YOUR_GITHUB_REPOSITORY_URL
+[CivicEye — Source Code & Documentation](https://github.com/Tejaswi-bot-ai/CivicEye.git)
 
 ---
 
