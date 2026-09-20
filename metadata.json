@@ -1,6 +1,5 @@
 {
-  "name": "MuniEdge AI - Autonomous Urban Intelligence",
-  "description": "On-bus edge-AI computer vision platform for road anomaly contour segmentation, automated IRC municipal compliance letter generation, sub-3s incident dispatch, and resilient offline edge cache (SIH #26124).",
-  "requestFramePermissions": ["geolocation", "camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "CivicEye - Autonomous Urban Intelligence",
+  "description": "On-bus edge-AI computer vision platform for road anomaly detection, automated municipal compliance workflows, incident dispatch, and resilient offline edge processing (SIH #26124).",
+  "requestFramePermissions": ["geolocation", "camera"]
 }
